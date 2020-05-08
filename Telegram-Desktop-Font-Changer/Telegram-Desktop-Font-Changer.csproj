@@ -7,6 +7,10 @@
     <UseWPF>true</UseWPF>
     <ApplicationIcon>telegram.ico</ApplicationIcon>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Authors>Alireza Askari</Authors>
+    <Product>Alireza Askari</Product>
+    <RepositoryUrl>https://github.com/askarialireza/Telegram-Desktop-Font-Changer/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/askarialireza/Telegram-Desktop-Font-Changer/</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
